@@ -1,0 +1,74 @@
+Armors: 1.Helm 2.Chest 3.Leggings 4.Boots
+Items: 1.Pickaxe 2.Axe 3.Hoe 4.Shears 5.Shovel 6.Sword
+Ores: 1.Mithril 2.Adamant 3.Copper 4.Tin 5.Iron 6.Silver 7.Gold 8.Nether Adamant
+Furnaces: 1.Iron idle 2.Iron Active 3. Obsidian Idle 4.Obsidian active 5.nether 6.nether 7.cobble 8.cobble 
+smelters: 1.cobble 2.cobble 3.iron 4.iron
+ingots: 1.Mithril 2.Adamant 3.Copper 4.Tin 5.Silver 6.Bronze 7.Steel
+
+villager professions: 
+0. farmer
+
+ 
+1.librarian
+paper, 
+book,
+written,
+compass,
+clock, 
+bookshelf,
+glass
+ 
+2.priest
+ender_eye
+experience_bottle
+red stone,
+glow stone,
+iron_sword, 
+diamond_sword, 
+iron_chestplate, 
+diamond_chestplate, 
+iron_axe, 
+diamond_axe, 
+iron_pickaxe, 
+diamond_pickaxe
+ 
+3.blacksmith
+coal,
+iron_ingot,
+gold_ingot,
+diamond, 
+iron_sword,
+diamond_sword,
+iron_axe, 
+diamond_axe, 
+iron_pickaxe, 
+diamond_pickaxe,
+iron_shovel, 
+diamond_shovel,
+iron_hoe, 
+diamond_hoe, 
+iron_boots, 
+diamond_boots,
+iron_helmet,
+diamond_helmet,
+iron_chestplate,
+diamond_chestplate, 
+iron_leggings, 
+diamond_leggings,
+chainmail_boots,
+chainmail_helmet,
+chainmail_chestplate
+chainmail_leggings, 
+ 
+4.butcher
+coal,
+pork chop,
+beef, 
+saddle, 
+leather_chestplate,
+leather_boots,
+leather_helmet,
+leather_leggings,
+cooked_porkchop, 
+cooked_beef, 
+                   

@@ -1,0 +1,156 @@
+item.MithrilChunk.name=Chunk Of Mithril
+item.AdamantChunk.name=Chunk Of Adamant
+item.TinChunk.name=Chunk Of Tin
+item.CopperChunk.name=Chunk Of Copper
+item.IronChunk.name=Chunk Of Iron
+item.SilverChunk.name=Chunk Of Silver
+item.GoldChunk.name=Chunk Of Gold
+
+item.MithrilShard.name=Mithril Shard
+item.AdamantShard.name=Adamant Shard
+item.TinShard.name=Tin Shard
+item.CopperShard.name=Copper Shard
+item.IronShard.name=Iron Shard
+item.SilverShard.name=Silver Shard
+item.GoldShard.name=Gold Shard
+
+item.MithrilNugget.name=Mithril Nugget
+item.AdamantNugget.name=Adamant Nugget
+item.TinNugget.name=Tin Nugget
+item.CopperNugget.name=Copper Nugget
+item.IronNugget.name=Iron Nugget
+item.SilverNugget.name=Silver Nugget
+item.GoldNugget.name=Gold Nugget
+item.BronzeNugget.name=Bronze Nugget
+item.SteelNugget.name=Steel Nugget
+
+item.MithrilIngot.name=Mithril Ingot
+item.AdamantIngot.name=Adamant Ingot
+item.TinIngot.name=Tin Ingot
+item.CopperIngot.name=Copper Ingot
+item.IronIngot.name=Iron Ingot
+item.SilverIngot.name=Silver Ingot
+item.GoldIngot.name=Gold Ingot
+item.BronzeIngot.name=Bronze Ingot
+item.SteelIngot.name=Steel Ingot
+
+tile.MithrilOre.name=Mithril Ore
+tile.AdamantOre.name=Adamant Ore
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+tile.IronOre.name=Iron Ore
+tile.SilverOre.name=Silver Ore
+tile.GoldOre.name=Gold Ore
+
+tile.ObsidianFurnaceIdle.name=Obsidian Furnace
+tile.CobbleFurnaceIdle.name=Cobblestone Furnace
+tile.IronSmelterIdle.name=Iron Smelter
+tile.CobbleSmelterIdle.name=Cobblestone Smelter
+tile.NetherFurnaceIdle.name=Nether Furnace
+tile.IronFurnaceIdle.name=Iron Furnace
+
+item.MithrilPickaxe.name=Mithril Pickaxe
+item.MithrilAxe.name=Mithril Axe
+item.MithrilHoe.name=Mithril Hoe
+item.MithrilSword.name=Mithril Sword
+item.MithrilShovel.name=Mithril Shovel
+item.MithrilShears.name=Mithril Shears
+
+item.AdamantPickaxe.name=Adamant Pickaxe
+item.AdamantAxe.name=Adamant Axe
+item.AdamantHoe.name=Adamant Hoe
+item.AdamantSword.name=Adamant Sword
+item.AdamantShovel.name=Adamant Shovel
+item.AdamantShears.name=Adamant Shears
+
+item.IronPickaxe.name=Iron Pickaxe
+item.IronAxe.name=Iron Axe
+item.IronHoe.name=Iron Hoe
+item.IronSword.name=Iron Sword
+item.IronShovel.name=Iron Shovel
+item.IronShears.name=Iron Shears
+
+item.CopperPickaxe.name=Copper Pickaxe
+item.CopperAxe.name=Copper Axe
+item.CopperHoe.name=Copper Hoe
+item.CopperSword.name=Copper Sword
+item.CopperShovel.name=Copper Shovel
+item.CopperShears.name=Copper Shears
+
+item.TinPickaxe.name=Tin Pickaxe
+item.TinAxe.name=Tin Axe
+item.TinHoe.name=Tin Hoe
+item.TinSword.name=Tin Sword
+item.TinShovel.name=Tin Shovel
+item.TinShears.name=Tin Shears
+
+item.GoldPickaxe.name=Gold Pickaxe
+item.GoldAxe.name=Gold Axe
+item.GoldHoe.name=Gold Hoe
+item.GoldSword.name=Gold Sword
+item.GoldShovel.name=Gold Shovel
+item.GoldShears.name=Gold Shears
+
+item.SilverPickaxe.name=Silver Pickaxe
+item.SilverAxe.name=Silver Axe
+item.SilverHoe.name=Silver Hoe
+item.SilverSword.name=Silver Sword
+item.SilverShovel.name=Silver Shovel
+item.SilverShears.name=Silver Shears
+
+item.SteelPickaxe.name=Steel Pickaxe
+item.SteelAxe.name=Steel Axe
+item.SteelHoe.name=Steel Hoe
+item.SteelSword.name=Steel Sword
+item.SteelShovel.name=Steel Shovel
+item.SteelShears.name=Steel Shears
+
+item.BronzePickaxe.name=Bronze Pickaxe
+item.BronzeAxe.name=Bronze Axe
+item.BronzeHoe.name=Bronze Hoe
+item.BronzeSword.name=Bronze Sword
+item.BronzeShovel.name=Bronze Shovel
+item.BronzeShears.name=Bronze Shears
+
+item.DiamondPickaxe.name=Diamond Pickaxe
+item.DiamondAxe.name=Diamond Axe
+item.DiamondHoe.name=Diamond Hoe
+item.DiamondSword.name=Diamond Sword
+item.DiamondShovel.name=Diamond Shovel
+item.DiamondShears.name=Diamond Shears
+
+item.MithrilHelm.name=Mithril Helmet
+item.MithrilChest.name=Mithril Chestplate
+item.MithrilLeggings.name=Mithril Leggings
+item.MithrilBoots.name=Mithril Boots
+
+item.AdamantHelm.name=Adamant Helmet
+item.AdamantChest.name=Adamant Chestplate
+item.AdamantLeggings.name=Adamant Leggings
+item.AdamantBoots.name=Adamant Boots
+
+item.SteelHelm.name=Steel Helmet
+item.SteelChest.name=Steel Chestplate
+item.SteelLeggings.name=Steel Leggings
+item.SteelBoots.name=Steel Boots
+
+item.BronzeHelm.name=Bronze Helmet
+item.BronzeChest.name=Bronze Chestplate
+item.BronzeLeggings.name=Bronze Leggings
+item.BronzeBoots.name=Bronze Boots
+
+item.WoodenSword.name=Wooden Sword
+item.WoodenHoe.name=Wooden Hoe
+
+item.FlintPickaxe.name=Flint Pickaxe
+item.FlintHatchet.name=Flint Hatchet
+
+itemGroup.tabImmersiveModOres=Ores
+itemGroup.tabImmersiveModTools=Tools
+itemGroup.tabImmersiveModBlocks=Blocks
+itemGroup.tabImmersiveModItems=Items
+itemGroup.tabImmersiveModMisc=Misc
+itemGroup.tabImmersiveModAmor=Armors
+
+key.tut_inventory.desc=Stats key
+key.tutorial.label=ImmersiveMod
